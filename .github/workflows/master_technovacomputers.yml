@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'technovacomputers'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_44BA9F260868433DA945CF816D7C2497 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E8547295D4AE49EFB5DC9F32D74A94CE }}
           package: .
