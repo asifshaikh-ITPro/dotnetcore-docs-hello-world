@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'testappestus'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F4C799FFBFD6486BB2AA54F2D7E13D38 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4B21ADA6BE204EF188935519FC40C8F0 }}
           package: .
